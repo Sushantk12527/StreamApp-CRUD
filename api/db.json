@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here is a stream",
+      "id": 3
+    },
+    {
+      "title": "Programatic route",
+      "description": "lets see if it works",
+      "id": 6
+    },
+    {
+      "title": "Reusable components",
+      "description": "for redux form",
+      "id": 7
+    }
+  ]
+}
